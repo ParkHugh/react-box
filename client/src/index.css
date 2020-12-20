@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.posco{
+  color:steelblue;
+  font-family: sans-serif;
+  text-align:center;
+  font-weight: bolder;
+  font-style: italic;
+  
+}
+footer {
+  text-align: center;
+  background-color: #1e1e1e;
+  padding: 15px;
+  font-size: 14px;
+  color: #919191;
+}
+
+.mainbox {
+  width: 1060px;
+  padding: 30px;
+  margin: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid #ebebeb;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 200, 0.1);
+}
